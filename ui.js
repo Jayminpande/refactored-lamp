@@ -78,7 +78,7 @@ function EditTodos(){
      
   
 };
-
+// delete elements
  delete elements
 
 function  delElements(element){
